@@ -1,75 +1,39 @@
-# Hi there, I'm Shreyas! 👋
+# Hey, I'm Shreyas 👋
 
-**Full-Stack Engineer** | Building scalable systems that matter | Bengaluru, India
-
+**AI Backend Engineer** based in Bengaluru · Building production LLM & RAG systems · Open to new roles
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyescodes&label=Profile%20Views&color=0e75b6&style=flat&base=1000)
+---
 
-I'm a passionate **Full-Stack Engineer** with **2+ years** of hands-on experience crafting production-grade, scalable applications. I specialize in designing efficient backend architectures, intuitive user interfaces, and intelligent AI-powered solutions. 
+## 🚀 What I Do
+
+I build AI backend systems that actually ship — not demos that live in Jupyter notebooks.
+
+- **LLM & RAG pipelines** — LangChain, LangGraph, multi-tenant retrieval, hybrid search
+- **Backend engineering** — FastAPI, PostgreSQL, Redis, async Python
+- **Cloud & infra** — AWS (EC2, S3, Lambda), CI/CD, Docker
+- **Domain** — Wealthtech / fintech AI, regulated data systems
 
 ---
 
-### 🚀 What I'm up to
-- **Currently building** at **Atrean** — working with Python, FastAPI, Generative AI, PostgreSQL, Node.js, React, AWS & System Design.
-- Passionate about **AI orchestration**, workflow automation, and building high-performance systems.
+## 🏆 Things I'm Proud Of
+
+- **Merged PR @ BerriAI/LiteLLM** (18k+ ⭐) — Fixed CORS, exception-masking, and infinite-loop risk
+- **KSCST Government Research Grant** — Edge AI on HAR, sponsored by IISc Bengaluru
+- **IETE Best Paper Award** — KNN-based HAR system on Nvidia Jetson Nano
+- **Founding Engineer @ Atrean** — Sole Python/AI engineer, US wealthtech AI startup
 
 ---
 
-### 🛠️ Tech Stack
+## 🔧 Tech Stack
 
-**Primary Stack**
-
-| Layer              | Technologies |
-|--------------------|--------------|
-| **Frontend**       | React.js, TypeScript, JavaScript, Tailwind |
-| **Backend**        | Node.js, Python (FastAPI + Django), Express |
-| **Database**       | PostgreSQL, Redis |
-| **Cloud & DevOps** | AWS, Docker |
-| **AI/ML**          | LangChain, Generative AI, RAG Workflows |
-| **Others**         | REST APIs, Microservices, System Design |
+Languages:   Python · SQL · JavaScript
+AI/ML:       LangChain · LangGraph · LlamaIndex · OpenAI · HuggingFace
+Backend:     FastAPI · PostgreSQL · Redis · Celery
+Cloud:       AWS (EC2, S3, Lambda) · Docker · GitHub Actions
+Vector DBs:  FAISS · Chroma · Pinecone
 
 ---
 
-### 💼 Professional Experience
+## 📬 Open to AI Engineer / Backend SDE / MLOps roles in fintech & regulated AI
 
-**Software Engineer**  
-**Atrean** — *Current*  
-- Developing scalable backend systems using **Python + FastAPI** with **Generative AI** integrations.  
-- Building responsive frontends with **React.js** and optimizing full-stack performance.  
-- Working on **AWS cloud infrastructure**, microservices architecture, and **System Design**.  
-- Contributing to high-availability applications with PostgreSQL and Redis.
-
-**Associate Software Engineer**  
-**Ahana Systems**  
-- Built and optimized backend systems using **Python** and **Node.js** microservices.  
-- Focused on API performance, system reliability, and scalable architecture.
-
-**Python Developer Intern**  
-**GTPL**  
-- Developed robust web applications and automated workflows using **Django + PostgreSQL**.
-
----
-
-### 🎓 Education & Achievements
-
-**B.E. in Electronics & Communication Engineering**  
-RNS Institute of Technology, Bengaluru
-
-**Key Highlights**:
-- **Best Paper Award** – IETE for Automated Health Monitoring System.
-- Received **Government Research Grant** from Karnataka State Council for Science & Technology (KSCST) with sponsorship from Indian Institute of Science (IISc).
-- Built an **edge-AI health screening system** on Nvidia Jetson Nano (IoT + Computer Vision + Real-time analytics).
-- Published paper: *Human Activity Recognition using KNN-Machine Learning Algorithms*.
-
----
-
-### 📫 Let's Connect!
-
-- **LinkedIn**: [linkedin.com/in/shreyes19](https://www.linkedin.com/in/shreyes19)
-- **Blog**: [Medium](https://shreyescodes.medium.com/)
-- **Email**: [shreyastc19@gmail.com](mailto:shreyastc19@gmail.com)
-
-Open to **collaborations**, interesting projects, or meaningful conversations about tech, AI, and blockchain! 🚀
-
----
-
-**"I build systems that scale, not just code that ships."**
+[LinkedIn](https://linkedin.com/in/shreyes19) · [X](https://x.com/shreyescodes) · [Medium](https://shreyescodes.medium.com)
