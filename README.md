@@ -6,21 +6,21 @@
 
 ## 🚀 What I Do
 
-I build AI backend systems that actually ship — not demos that live in Jupyter notebooks.
+I build AI backend systems that actually ship, not demos that live in Jupyter notebooks.
 
-- **LLM & RAG pipelines** — LangChain, LangGraph, multi-tenant retrieval, hybrid search
-- **Backend engineering** — FastAPI, PostgreSQL, Redis, async Python
-- **Cloud & infra** — AWS (EC2, S3, Lambda), CI/CD, Docker
-- **Domain** — Wealthtech / fintech AI, regulated data systems
+- **LLM & RAG pipelines** - LangChain, LangGraph, multi-tenant retrieval, hybrid search
+- **Backend engineering** - FastAPI, PostgreSQL, Redis, async Python
+- **Cloud & infra** - AWS (EC2, S3, Lambda), CI/CD, Docker
+- **Domain** - Wealthtech / fintech AI, regulated data systems
 
 ---
 
 ## 🏆 Things I'm Proud Of
 
-- **Merged PR @ BerriAI/LiteLLM** (18k+ ⭐) — Fixed CORS, exception-masking, and infinite-loop risk
-- **KSCST Government Research Grant** — Edge AI on HAR, sponsored by IISc Bengaluru
-- **IETE Best Paper Award** — KNN-based HAR system on Nvidia Jetson Nano
-- **Founding Engineer @ Atrean** — Sole Python/AI engineer, US wealthtech AI startup
+- **Merged PR @ BerriAI/LiteLLM** (18k+ ⭐) - Fixed CORS, exception-masking, and infinite-loop risk
+- **KSCST Government Research Grant** - Edge AI on HAR, sponsored by IISc Bengaluru
+- **IETE Best Paper Award** - KNN-based HAR system on Nvidia Jetson Nano
+- **Founding Engineer @ Atrean** - Sole Python/AI engineer, US wealthtech AI startup
 
 ---
 
