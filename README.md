@@ -6,6 +6,8 @@ Bengaluru, Karnataka, India. Open to Software Engineer, Backend Engineer and AI 
 
 [Portfolio](https://shreyescodes.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/shreyes19) · [LeetCode](https://leetcode.com/u/shreyescodes/) · [X](https://x.com/shreyescodes) · [Medium](https://medium.com/@shreyescodes)
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/shreyescodes/badge.svg)](https://hub.xerj.org/contributors/shreyescodes)
+
 ## What I do
 
 I build backend services and the AI parts around them: APIs, data pipelines, RAG and agents. I work across the stack, from React frontends to FastAPI and Node.js services, with PostgreSQL and Redis underneath, shipped with Docker on AWS. I like systems that are correct, tested and easy to run.
@@ -16,9 +18,9 @@ I have worked on wealthtech and BFSI products, so audit trails and data integrit
 
 - **[Data-Analyst-AI-Agent](https://github.com/shreyescodes/Data-Analyst-AI-Agent)**: ask a CSV, API or database questions in plain English and get SQL, charts and a profile report. Queries run on a read-only connection, the model gets up to 3 attempts at a failing query, and a CI job runs the AI mode on a local model, so no API key is needed. Python, Streamlit, mypy strict.
 - **[Project-Aura](https://github.com/shreyescodes/Project-Aura)**: infrastructure as code for an OpenStack private cloud lab. Terraform builds 8 KVM nodes on 4 networks, Ansible sets up Ceph and OpenStack, a FastAPI service handles tenant onboarding, and the Prometheus alert rules are unit-tested and linked to runbooks.
-- **[RAG-Data-Platform](https://github.com/shreyescodes/RAG-Data-Platform)**: ask 5,000+ rows of financial data questions in plain English. Retrieval, enrichment and analysis agents answer them, PII is redacted before any LLM call, and each query is logged so answers can be audited. React, FastAPI, PostgreSQL, FAISS.
-- **[Invoice-Intelligence-Platform](https://github.com/shreyescodes/Invoice-Intelligence-Platform)**: invoice processing on Azure. OCR and LLM extraction, purchase order checks, anomaly scoring with Isolation Forest, and a human approval step. React, FastAPI, Azure Durable Functions.
-- **[vol-regime-backtester](https://github.com/shreyescodes/vol-regime-backtester)**: backtesting engine for crypto, equities and gold. Position size follows the volatility regime, execution is fully vectorized, and a stress suite simulates flash crashes and cost surges. Streamlit dashboard, Docker, unit tests.
+- **[RAG-Data-Platform](https://github.com/shreyescodes/RAG-Data-Platform)**: ask questions about 5,000+ rows of synthetic financial data in plain English. Retrieval, enrichment and analysis agents answer them, PII is redacted before any LLM call, and each query is logged so answers can be audited. React, FastAPI, PostgreSQL, FAISS.
+- **[Invoice-Intelligence-Platform](https://github.com/shreyescodes/Invoice-Intelligence-Platform)**: invoice processing on Azure. OCR and LLM extraction, purchase order checks against a mock SAP service, anomaly scoring with a scikit-learn one-class SVM, and a human approval step. React, FastAPI, Azure Durable Functions.
+- **[vol-regime-backtester](https://github.com/shreyescodes/vol-regime-backtester)**: backtesting engine that sizes positions by volatility regime. Execution is fully vectorized, a stress suite simulates flash crashes and cost surges, and it runs on synthetic data or your own CSV files. Streamlit dashboard, Docker, unit tests.
 
 ## Open source
 
