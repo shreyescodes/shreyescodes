@@ -1,6 +1,6 @@
 # Shreyas T C
 
-**Software Engineer, Backend and AI** | Python, FastAPI, LangGraph | Regulated fintech | LiteLLM contributor
+**Software Engineer, Backend and AI** | Python, FastAPI, LangGraph | Regulated fintech | Open Source contributor
 
 Bengaluru, Karnataka, India. Open to Software Engineer, Backend Engineer and AI Engineer roles, in Bengaluru or remote.
 
